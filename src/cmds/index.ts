@@ -10,5 +10,4 @@ module.exports = [
   require('./diff'),
   require('./playground'),
   require('./lint'),
-  require('./codegen'),
 ]
