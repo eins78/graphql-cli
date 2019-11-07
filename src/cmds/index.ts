@@ -11,5 +11,4 @@ module.exports = [
   require('./playground'),
   require('./lint'),
   require('./codegen'),
-  require('graphql-cli-prepare'),
 ]
